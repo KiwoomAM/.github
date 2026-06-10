@@ -1,5 +1,5 @@
 ---
-name: 📢 공지사항 (Notification)
+name: Notification
 about: 팀 전체 전달 공지 / 전원 조치가 필요한 안내
 title: "[공지] "
 labels: notification
