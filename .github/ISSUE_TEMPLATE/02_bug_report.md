@@ -1,5 +1,5 @@
 ---
-name: 🐞 버그 리포트 (Bug report)
+name: Bug report
 about: 버그 발생 시 사용
 title: "[버그] "
 labels: bug
