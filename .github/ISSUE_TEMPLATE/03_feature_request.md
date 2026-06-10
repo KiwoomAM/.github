@@ -1,5 +1,5 @@
 ---
-name: 🎯 기능 제안 (Feature request)
+name: Feature request
 about: 새 기능·개선 제안 시 사용
 title: "[기능] "
 labels: enhancement
