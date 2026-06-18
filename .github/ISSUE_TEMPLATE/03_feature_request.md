@@ -1,7 +1,7 @@
 ---
 name: Feature request
-about: 새 기능·개선 제안 시 사용
-title: "[기능] "
+about: 담당자에게 새 기능·개선 제안 시 사용
+title: 
 labels: enhancement
 ---
 
