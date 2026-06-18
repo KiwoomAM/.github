@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: 버그 발생 시 사용
-title: "[버그] "
+about: 담당자에게 버그 발생 보고 및 수정 요청 시 사용
+title: 
 labels: bug
 ---
 
